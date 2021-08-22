@@ -1,11 +1,9 @@
- <img align="center" width="100%" height="360px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/Banner.png" />
- <br>
+ <img align="center" width="100%" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/Banner.png" />
+ <div align="center">
  
-<p>
-  <h4 align="center"><b><i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i></b></h4>
-</p>
-
-
+ ![Visitor Count](https://profile-counter.glitch.me/{brijeshc1307}/count.svg)
+ 
+ </div>
 <br>
 
 
@@ -32,15 +30,15 @@
 
 ### Languages and Tools: 
 
+<img align="left" alt="Cpp" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Pycharm" width="35px" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/pycharm.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Cpp" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 <br>
 <br>
@@ -58,11 +56,6 @@
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
-
-### Profile Viewer
-
-![Visitor Count](https://profile-counter.glitch.me/{brijeshc1307}/count.svg)
-
 
 -----
 Credits: [brijeshc1307](https://github.com/brijeshc1307)
