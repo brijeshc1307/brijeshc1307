@@ -9,9 +9,7 @@
   <h4 align="center"><b><i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i></b></h4>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{brijeshc1307}/count.svg)
 
-<p align="center">
 <br>
 
 
@@ -64,6 +62,11 @@
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
+
+### Profile Viewer
+
+![Visitor Count](https://profile-counter.glitch.me/{brijeshc1307}/count.svg)
+
 
 -----
 Credits: [brijeshc1307](https://github.com/brijeshc1307)
