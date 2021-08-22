@@ -1,3 +1,5 @@
+ <img align="center" width="100%" height="360px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/iet.jpeg" />
+ <br>
  
 <p>
   <h1 align="center"><b>Hello there, I'm Brijesh Chaudhary👋</b></h1>
@@ -20,7 +22,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="" />
+<img align="right" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/bri.jpeg" />
 
 ### I am a Full Stack Developer
 - 💻 
