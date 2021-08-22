@@ -1,10 +1,6 @@
- <img align="center" width="100%" height="360px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/iet.jpeg" />
+ <img align="center" width="100%" height="360px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/Banner.png" />
  <br>
  
-<p>
-  <h1 align="center"><b>Hello there, I'm Brijesh Chaudhary👋</b></h1>
-</p>
-
 <p>
   <h4 align="center"><b><i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i></b></h4>
 </p>
