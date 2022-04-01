@@ -16,13 +16,13 @@
 
 <img align="right" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/bri.jpeg" />
 
-### I am an Associate Engineer at TCS
+### I am Data Scientist | Assistant System Engineer at TCS
 - 💻 I'm also Software Developer & Data Scientist :wink:
 - 🔭 I’m currently working on a project :wink:
 - 🌱 I’m currently learning Data Science :wink:
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][Linkedin]:point_up:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -39,6 +39,7 @@
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Pycharm" width="35px" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/pycharm.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 
 <br>
 <br>
