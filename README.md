@@ -16,10 +16,10 @@
 
 <img align="right" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/bri.jpeg" />
 
-### I am a Software Developer
-- 💻 I'm also Web Developer & I'm looking job.
-- 🔭 I’m currently working on a project :grin:
-- 🌱 I’m currently learning Data Science.
+### I am an Associate Engineer at TCS
+- 💻 I'm also Software Developer & Data Scientist :wink:
+- 🔭 I’m currently working on a project :wink:
+- 🌱 I’m currently learning Data Science :wink:
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
