@@ -16,10 +16,9 @@
  💻 Portfolio: <a href="https://brijeshc1307.github.io/bportfolio/" >Click here</a>
 <img align="right" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/bri.jpeg" /> 
 
-### I am Data Scientist | Assistant System Engineer at TCS
-- 💻 I'm also Software Developer & Data Scientist :wink:
+### I am Assistant System Engineer at TCS
+- 💻 I'm also Software Developer :wink:
 - 🔭 I’m currently working on a project :wink:
-- 🌱 I’m currently learning Data Science :wink:
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][Linkedin]:point_up:
