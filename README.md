@@ -14,7 +14,7 @@
 
 <br>
  💻 Portfolio: <a href="https://brijeshc1307.github.io/bportfolio/" >Click here</a>
-<img align="right" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/bri.jpg" /> 
+<img align="right" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/brij.png" /> 
 
 ### I am Assistant System Engineer at TCS
 - 💻 I'm also Software Developer :wink:
