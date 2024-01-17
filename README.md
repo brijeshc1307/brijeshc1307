@@ -49,7 +49,7 @@
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=brijeshc1307&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brijeshc1307&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshc1307&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Brijesh's Top Languages">
 
