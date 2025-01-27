@@ -1,3 +1,10 @@
+<meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="description" content="Brijesh Chaudhary - I have recently (Dec 2021) joined at Tata Consultancy Services (TCS). I work on a project and my roll is Software Developer. As a Developer my main responsibilities is Logical and results-driven full stack developer dedicated to building and optimizing user-focused websites and applications.">
+<meta name="keywords" content="Portfolio, IET, IET Lucknow,MLK PG,Software Engineer,Web Developer, Full-Stack Engineer, Brijesh Chaudhary, Brijesh, GitHub Pages">
+<meta name="author" content="Brijesh Chaudhary">
+<meta name="robots" content="index, follow">
+
  <img align="center" width="100%" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/Banner.png" />
  <div align="center">
  
