@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on a project :wink:
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][Linkedin]:point_up:
+- 📬 How to reach me: Let's get in touch! <a href="https://www.linkedin.com/in/brijesh-chaudhary-2b8449171">Linkedin</a> :point_up:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
